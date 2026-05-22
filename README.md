@@ -13,6 +13,7 @@ Obsidianでのタスク管理とノートをシームレスに繋ぐためのカ
 - [ ] Obsidianの `Advanced URI` を利用した連携
 
 ## 技術スタック (学習予定)
+- Electron
 - React (Next.js)
 - Node.js
 - Tailwind CSS
